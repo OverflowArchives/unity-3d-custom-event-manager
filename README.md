@@ -8,7 +8,7 @@ Using this snippet an event can be triggered from any gameobject and it can list
 This Snippet have three static methods that used to handle the events as followed.
 1. `StartListentning()` - This static method should be handled inside the `OnEnabled()` of the MonoBehaviour. It is responsible to listening the events triggered in some other scripts when the gameobject is active.
 2. `StopListentning()` - This static method should be handled inside the `OnDisabled()` of the MonoBehaviour. It will remove the event listening in the EventManager when the script/Gameobject is disabled.
-3.`TriggerEvent()` - `TriggerEvent()` method is used to point the Event which need to be triggered and invokes the method/event.
+3. `TriggerEvent()` - `TriggerEvent()` method is used to point the Event which need to be triggered and invokes the method/event.
 
 
 ## Watch YouTube tutorial [Here](https://youtu.be/NDdgyX6U2cc)
