@@ -12,3 +12,4 @@ This Snippet have three static methods that used to handle the events as followe
 
 
 ## Watch YouTube tutorial [Here](https://youtu.be/NDdgyX6U2cc)
+Watch this Tutorial, it will help you to understand how to use this Eventmanager.
