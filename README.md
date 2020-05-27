@@ -4,7 +4,7 @@
 This custom event manager for Unity 3D helps to trigger / Invoke any event/method in an active gameobject.
 Using this snippet an event can be triggered from any gameobject and it can listen in the active script.
 
-###Basic Methods
+### Basic Methods
 This Snippet have three static methods that used to handle the events as followed.
 1. `StartListentning()` - This static method should be handled inside the `OnEnabled()` of the MonoBehaviour. It is responsible to listening the events triggered in some other scripts when the gameobject is active.
 2. `StopListentning()` - This static method should be handled inside the `OnDisabled()` of the MonoBehaviour. It will remove the event listening in the EventManager when the script/Gameobject is disabled.
